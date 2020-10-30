@@ -23,5 +23,13 @@
   },
   "dependencies": {
     "axios": "^0.21.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianiniguez/curso_javascript_testing_jest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cristianiniguez/curso_javascript_testing_jest/issues"
+  },
+  "homepage": "https://github.com/cristianiniguez/curso_javascript_testing_jest#readme"
 }
